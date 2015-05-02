@@ -14,7 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
-
+- [Part of Life] (https://github.com/bterri17/part-of-life) by Wellness Tech
 
 
 Registering Your Team
