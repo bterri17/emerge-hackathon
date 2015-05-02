@@ -14,7 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
-
+- [Healthtopia] (https://github.com/bterri17/healthtopia) by Wellness Tech
 
 
 Registering Your Team
